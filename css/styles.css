@@ -3,6 +3,7 @@ html, body {
 	margin: 0px;
 	font-size: 1.2em;
 	background-color: #e6e6e6;
+    cursor: pointer;
 }
 
 #page {
